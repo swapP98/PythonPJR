@@ -22,7 +22,7 @@ def get_db_connection():
         host="localhost",
         user="root",
         password="password",
-        database="mypythonPRJ")
+        database="mypythonPRJ2")
     return conn
 
 

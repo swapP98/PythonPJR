@@ -11,7 +11,7 @@ mydb = mysql.connector.connect(
     host="localhost",
     user="root",
     password="password",
-    database="mypythonPRJ")
+    database="mypythonPRJ2")
 
 mycursor = mydb.cursor()
 
